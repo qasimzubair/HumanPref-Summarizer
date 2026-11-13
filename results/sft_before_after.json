@@ -1,0 +1,56 @@
+{
+  "before_sft": [
+    {
+      "sample_id": 1,
+      "reference": "Boyfriend said some would stuff to me and I am so deeply hurt by them, but I'm scared bringing it up will result in another argument in which he ruins me once more.",
+      "summary": "I'm not going to tell him I'm sorry, I'm not going to tell him I'm sorry, I'm not going to tell him I'm sorry, I'm not going to tell him I'm sorry, I'm not going"
+    },
+    {
+      "sample_id": 2,
+      "reference": "If we both know we like each other, and have really hit it off, can I just straight up ask her to be my girlfriend?",
+      "summary": "I'm not sure if I should ask her to be my girlfriend or not.\n\nI'm not sure if I should ask her to be my girlfriend.\n\nI'm not sure if I should ask her to be my girlfriend."
+    },
+    {
+      "sample_id": 3,
+      "reference": "Girlfriend broke up and told me \"its her fault,i cant love,im not able to bond\"",
+      "summary": "I dont know if she is going to be able to love me anymore.\n\nI am 18 and i have been in a relationship for 2 years. I have been in a relationship for 2 years. I have been"
+    },
+    {
+      "sample_id": 4,
+      "reference": "I want to close my BoA checking account, but keep my savings and credit card with them. Is this possible? And, which is better: a credit union or Charles Schwab?",
+      "summary": "I'm not sure what to do. I'm not sure if I should keep my savings account or credit card. I'm not sure if I should keep my savings account or credit card. I'm not sure if I should keep my savings"
+    },
+    {
+      "sample_id": 5,
+      "reference": "GF broke up with me, Don't know if she will be back or not? We have a holiday booked, should I be expecting her to come? Or should I just not go atal/go on my own?",
+      "summary": "I am not sure if I should hold out or not. I am not sure if I should be able to talk to her again.\n\nI am not sure if I should be able to talk to her again. I am not sure"
+    }
+  ],
+  "after_sft": [
+    {
+      "sample_id": 1,
+      "reference": "Boyfriend said some would stuff to me and I am so deeply hurt by them, but I'm scared bringing it up will result in another argument in which he ruins me once more.",
+      "summary": "boyfriend said hurtful things to me, I'm still hurt by it, what should I do?"
+    },
+    {
+      "sample_id": 2,
+      "reference": "If we both know we like each other, and have really hit it off, can I just straight up ask her to be my girlfriend?",
+      "summary": "I've been assured that a girl has the same feeling I have, so I'm wondering if it would be ok to just ask her to be my girlfriend."
+    },
+    {
+      "sample_id": 3,
+      "reference": "Girlfriend broke up and told me \"its her fault,i cant love,im not able to bond\"",
+      "summary": "ex broke up with me, she said she cant love and she is \"unable to bond\". I cant believe that she is not able to love."
+    },
+    {
+      "sample_id": 4,
+      "reference": "I want to close my BoA checking account, but keep my savings and credit card with them. Is this possible? And, which is better: a credit union or Charles Schwab?",
+      "summary": "I'm banking with BoA and want to close my checking account with them and move to a credit union or Charles Schwab."
+    },
+    {
+      "sample_id": 5,
+      "reference": "GF broke up with me, Don't know if she will be back or not? We have a holiday booked, should I be expecting her to come? Or should I just not go atal/go on my own?",
+      "summary": "GF broke up with me, we have a holiday booked in September, should I hold out?"
+    }
+  ]
+}

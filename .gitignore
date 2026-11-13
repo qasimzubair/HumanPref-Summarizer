@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+
+# Large generated model artifacts; use download_checkpoints.py instead.
+checkpoints/**/*.safetensors
+checkpoints/**/*.pt

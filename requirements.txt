@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+rouge-score
+numpy
+pandas
+matplotlib
+gradio
+huggingface_hub
